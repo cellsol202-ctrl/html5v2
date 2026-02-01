@@ -1,0 +1,47 @@
+.img {
+   justify-content: center;
+   display: flex;
+    
+}
+
+figcaption {
+    text-align: center;
+    
+   
+}
+
+p, h2, ul {
+   
+    border-left;
+    margin: 0 100px 0 100px;
+    padding: 10px;
+
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+   
+   
+  
+}
+.container-curiosidades {
+   
+    font-size: 30px;
+    background-color: rgb(136, 129, 129);
+    padding: 10px;
+    margin: 30px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container-margem {
+     background-color: rgb(255, 255, 255);
+     width:center;
+
+     margin-left: 3%;
+     margin-right: 3%;
+     margin-block-end: 50px;
+}
