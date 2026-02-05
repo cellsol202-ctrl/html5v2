@@ -44,4 +44,15 @@ h1 {
      margin-left: 3%;
      margin-right: 3%;
      margin-block-end: 50px;
+
+}
+.sobre, .Curiosidades {
+    
+    margin: 40px;
+    padding: 40px;
+    border: 1px dashed black; 
+    border-left: none;
+    border-right: none;
+   
+    
 }
